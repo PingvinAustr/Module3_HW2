@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace Module_3_HW_2
+{
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            Starter.Run();
+        }
+    }
+}
